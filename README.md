@@ -2,7 +2,7 @@
 
 ###  프론트엔드 개발자를 꿈꾸며 부산소프트웨어 마이스터고등학교에 재학중인 2학년 김준경입니다 ✌
 
-![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical) <div /> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
 <br>
 <br>
 <br>
@@ -26,11 +26,15 @@
 
 ### 관심이 있어요 👀
 
+<img src="https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=Svelte&logoColor=#FF3E00"> <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=Vue.js&logoColor=#FF3E00">
+<br>
+<br>
 
-### 공부와 경험의 기록 🧐
+### 공부와 경험의 기록 📄
 
 <a href="https://velog.io/@rhemddjwhfla12" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=#33FF99"></a>
-
+<br>
+<br>
 
 <!--
 **rlawnsrud0509/rlawnsrud0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
