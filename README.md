@@ -8,7 +8,7 @@
 <br>
 
 ### 잘 다룰줄 알아요 😘
-<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=#000000"> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#000000"> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#000000"> <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=Typescript&logoColor=#000000">  <img src="https://img.shields.io/badge/styled_components-000000?style=for-the-badge&logo=styled-components&logoColor=#DB7093"> 
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=#000000"> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#000000"> <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#000000"> <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=Typescript&logoColor=#000000">  <img src="https://img.shields.io/badge/styled_components-000000?style=for-the-badge&logo=styled-components&logoColor=#DB7093">  <img src="https://img.shields.io/badge/recoil-000000?style=for-the-badge&logo=recoil&logoColor=#DB7093"> 
 <br>
 <br>
 
@@ -20,7 +20,7 @@
 
 ### 공부하고 있어요 😣
 
-<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000"> <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=Tailwind css&logoColor=#000000">
+<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000"> <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=Tailwind css&logoColor=#000000">   <img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=#DB7093"> 
 <br>
 <br>
 
