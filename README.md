@@ -2,7 +2,7 @@
 
 ###  프론트엔드 개발자를 꿈꾸며 부산소프트웨어 마이스터고등학교에 재학중인 2학년 김준경입니다 ✌
 
-![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical) <div /> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
+![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
 <br>
 <br>
 <br>
