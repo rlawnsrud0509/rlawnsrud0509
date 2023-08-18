@@ -21,7 +21,7 @@
 
 ### 공부하고 있어요 😣
 
-<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000"> <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=Tailwind css&logoColor=#000000">   <img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=#DB7093"> <img src="https://img.shields.io/badge/nestjs-000000?style=for-the-badge&logo=nestjs&logoColor=red"> 
+<img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000"> <img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=Tailwind css&logoColor=#000000">   <img src="https://img.shields.io/badge/redux-000000?style=for-the-badge&logo=redux&logoColor=#DB7093">
 <br>
 <br>
 
