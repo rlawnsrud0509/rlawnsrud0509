@@ -1,6 +1,9 @@
-## 안녕하세요!! 👋👋👋
+<!-- ## 안녕하세요!! 👋👋👋
 
 ###  프론트엔드 개발자를 꿈꾸며 부산소프트웨어마이스터고등학교에 재학중인 2학년 김준경입니다 ✌
+
+ - 사용자 경험과 깔끔한 레이아웃을 즁요시해요
+ - 팀원들과 소통하고 협업하는 것을 좋아해요
 
 ![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
 <br>
@@ -36,18 +39,9 @@
 <a href="https://velog.io/@rhemddjwhfla12" target="_blank"><img src="https://img.shields.io/badge/Velog-000000?style=for-the-badge&logo=velog&logoColor=#33FF99"></a>
 <br>
 <br>
-
+--!>
 <!--
 **rlawnsrud0509/rlawnsrud0509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--!>
