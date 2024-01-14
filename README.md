@@ -3,11 +3,13 @@
 ###  프론트엔드 개발자를 꿈꾸며 부산소프트웨어마이스터고등학교에 재학중인 2학년 김준경입니다 ✌
 
 # 맘다잡고 열심히 개발 하겠습니다 진짜로ㅜㅜ
+
+![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical)  
 <!--
  - 사용자 경험과 깔끔한 레이아웃을 즁요시해요
  - 팀원들과 소통하고 협업하는 것을 좋아해요
 
-![](https://github-readme-stats.vercel.app/api?username=rlawnsrud0509&show_icons=true&theme=radical)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhemddjwhfla12)](https://solved.ac/rhemddjwhfla12/)
 <br>
 <br>
 <br>
